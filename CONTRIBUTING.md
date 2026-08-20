@@ -6,7 +6,7 @@ Thank you for your interest in contributing! 🎉
 
 ### 1. Fork the Repository
 ```bash
-git clone https://github.com/Qyroxen/Color-Palette-Generator.git
+git clone https://github.com/AetherCodeHQ/Color-Palette-Generator.git
 cd Color-Palette-Generator
 ```
 
