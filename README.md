@@ -154,3 +154,12 @@ Part of [AetherCode Core](https://github.com/AetherCode-Core) ecosystem.
 ### v2026.08.23-2208
 - Auto updated
 - Tag: `v2026.08.23-2208`
+
+![Version](https://img.shields.io/badge/Version-v2.0.0-00ADD8?style=for-the-badge)
+
+
+## What's new in v2.0.0
+
+- Clean CLI with subcommands
+- Robust error handling
+- Fast, standard-library-only implementation
