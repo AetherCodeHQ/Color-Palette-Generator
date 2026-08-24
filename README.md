@@ -155,7 +155,7 @@ Part of [AetherCode Core](https://github.com/AetherCode-Core) ecosystem.
 - Auto updated
 - Tag: `v2026.08.23-2208`
 
-![Version](https://img.shields.io/badge/Version-v2.0.0-00ADD8?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-v2.1.0-00ADD8?style=for-the-badge)
 
 
 ## What's new in v2.0.0
